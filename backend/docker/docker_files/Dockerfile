@@ -18,6 +18,6 @@ RUN set -e; \
     chmod +x /code/docker/entrypoints/entrypoint.sh ;
 
 EXPOSE 8000
-ENTRYPOINT ["/code/docker/entrypoints/entrypoint.sh"]
+
 
 
