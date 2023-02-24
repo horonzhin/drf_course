@@ -1,18 +1,9 @@
 from django.db import models
 from utils.model_abstracts import Model
-from django_extensions.db.models import (
-    TimeStampedModel,
-    ActivatorModel,
-    TitleDescriptionModel
-)
+from django_extensions.db.models import (TimeStampedModel, ActivatorModel, TitleDescriptionModel)
 
 
-class Contact(
-    TimeStampedModel,
-    ActivatorModel,
-    TitleDescriptionModel,
-    Model
-):
+class Contact(TimeStampedModel, ActivatorModel, TitleDescriptionModel, Model):
     """
     TimeStampedModel: Fields - created
     ActivatorModel: Status, date of activation and deactivation
