@@ -44,8 +44,6 @@ H
 backend/core/__init__.py,0\e\0e61f6fdd9d754327793bd6818cdae24bf42aba7
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
-N
-backend/drf_course/settings.py,d\9\d92ae522541f6f009451cd55f37291f17e24d143
 Z
 *backend/docker/docker_files/Dockerfile_app,5\5\55e8cd7e7bf843b8ac2605c0eb3b3ac6079e971a
 X
@@ -66,5 +64,3 @@ E
 backend/core/views.py,4\7\471103f44a1c9469bcb308f9fa69296a563bf75a
 V
 &backend/docker/docker_files/Dockerfile,b\5\b5295830c505f5e88210870babde6dc881e371dc
-J
-backend/drf_course/urls.py,6\9\69ba7aabbe3cede6480d399c1799d12589b717bf
