@@ -14,8 +14,6 @@ J
 backend/drf_course/wsgi.py,a\8\a8fefd1c2969e81527b9d2ed2feb7f05f1ff7e33
 N
 backend/drf_course/__init__.py,3\6\36338a299bfa4438ac0ebc2ef30cf5617c0e556e
-E
-backend/core/tests.py,8\a\8aab0a3f9342a18300088ad1e7faa19cd123a862
 S
 #backend/core/migrations/__init__.py,4\4\4477ddcb556298fe2892e688d0c88beec318081f
 H
@@ -38,3 +36,35 @@ A
 	server.py,3\7\37f78d9e69dff05b443a39c32175987bb0cbdccd
 <
 env.template,a\a\aa91fd576ac26b1a6b211b2a1198bf2cba647c37
+A
+backend/manage.py,f\f\ffff2748206e8a66c6dd0f11b107b87fc90e0d70
+W
+'backend/core/migrations/0001_initial.py,8\1\81235eb34c6a4e877189861d953bd47591cabe28
+H
+backend/core/__init__.py,0\e\0e61f6fdd9d754327793bd6818cdae24bf42aba7
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+N
+backend/drf_course/settings.py,d\9\d92ae522541f6f009451cd55f37291f17e24d143
+Z
+*backend/docker/docker_files/Dockerfile_app,5\5\55e8cd7e7bf843b8ac2605c0eb3b3ac6079e971a
+X
+(backend/docker/entrypoints/entrypoint.sh,8\a\8ae377c36f124429bbbd840d179562176ac48b27
+D
+backend/core/apps.py,8\7\8741269b07dd0111b399683db729d87ec0d5d975
+E
+backend/core/admin.py,c\c\ccbb2d5185a3dd857383fab0a19c88c313ee1266
+F
+backend/core/models.py,6\9\69be63fcb9053627a6f0507dbd40b3d296efd263
+I
+backend/utils/__init__.py,d\2\d251a30024c97a295dc0e8bd0df7f4b45b86e529
+K
+backend/core/serializers.py,d\6\d61baea9cceb20c489da7efb4333df1d9f425fb8
+P
+ backend/utils/model_abstracts.py,8\8\882336d2727eb9e96f9318a520760103169d0cb9
+E
+backend/core/views.py,4\7\471103f44a1c9469bcb308f9fa69296a563bf75a
+V
+&backend/docker/docker_files/Dockerfile,b\5\b5295830c505f5e88210870babde6dc881e371dc
+J
+backend/drf_course/urls.py,6\9\69ba7aabbe3cede6480d399c1799d12589b717bf
