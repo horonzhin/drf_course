@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -20,8 +18,6 @@ H
 backend/requirements.txt,7\4\7467689207bc56c9ef017581c0c04191bc16e11e
 A
 steps/module_7.md,9\9\99eac56c8314112e32d92995cb675674fc36a372
-A
-steps/module_8.md,6\f\6f9bc20035652bb023936f9d5d9a4060407821e8
 A
 steps/module_5.md,9\2\92dbdd382da79e7af91a175d03b20a0fd04f7582
 A
