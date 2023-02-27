@@ -36,8 +36,6 @@ class OrderSerializer(serializers.ModelSerializer):
 
     def validate(self, res: OrderedDict):
         """Used to validate Item stock levels"""
-        # Use dependency injection -> sorted dictionary. In order not to create a new object.
-        # Returns the dictionary in the order in which the keys were added
         item = res.get("item")
         quantity = res.get("quantity")
         if not item.check_stock(quantity):
